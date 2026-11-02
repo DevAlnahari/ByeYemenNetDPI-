@@ -1,5 +1,6 @@
-# Ignore batch scripts and archives
+# Ignore batch scripts, private files and archives
 *.bat
+*.mobileconfig
 *.rar
 *.zip
 release/
