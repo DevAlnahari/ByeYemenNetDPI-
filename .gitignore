@@ -1,5 +1,6 @@
-# Ignore batch files, private folders, and archives
+# Ignore batch scripts and archives
 *.bat
-fkyemenshit/
 *.rar
 *.zip
+release/
+dist/
